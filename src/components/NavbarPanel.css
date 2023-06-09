@@ -1,0 +1,21 @@
+
+.cart__group{
+    width: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:stretch;
+    
+}
+
+.cart__badge{
+   display: block; 
+   width: 15px;
+   height: 15px;
+   background-color: red;
+   border-radius: 100%;
+   color: #fff;
+   padding: 0px;
+   text-align: center;
+   font-size: 10px;
+}
